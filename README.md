@@ -1,4 +1,5 @@
 # Astro Starter Kit: Minimal
+https://dashing-salamander-460eb1.netlify.app/
 
 ```
 npm create astro@latest -- --template minimal
